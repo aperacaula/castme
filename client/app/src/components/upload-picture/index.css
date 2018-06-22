@@ -1,0 +1,13 @@
+.images-menu{
+    display: flex;
+}
+
+.images div{
+    margin-top: 1em;
+    margin-bottom: 1em
+}
+
+.dropzone{
+    max-width: 200px;
+    max-height: 200px;
+}

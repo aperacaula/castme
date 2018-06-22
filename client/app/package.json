@@ -1,0 +1,24 @@
+{
+  "name": "castme-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@synapsestudios/react-drop-n-crop": "^0.2.0",
+    "api": "file:../api",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "react-scrollable-anchor": "^0.6.1",
+    "sweetalert": "^2.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

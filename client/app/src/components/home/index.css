@@ -1,0 +1,89 @@
+.small-image-preview{
+    max-width: 40px;
+    max-height: 40px;
+    margin-right: 0.5em;
+}
+
+/* .small-preview{
+    padding:0; 
+} */
+
+.bottom-title{
+    color: white;
+    margin-bottom: 1em;
+}
+
+#menu2-home a {
+	display: inline-block;
+	height: 50px;
+	line-height: 50px;
+	text-transform: uppercase;
+	font-family: 'Abel', sans-serif;
+	font-size: 20px;
+    color: #FFFFFF;
+    padding-left: 1em;
+}
+
+#menu2-home ul {
+    list-style-type: none;
+	padding: 20px 0px 0px 0px;
+	float: right;
+}
+
+
+.post-home{
+    width: 100%;
+}
+.post-home .title {
+	margin-bottom: 10px;
+	padding: 12px 0px 20px 0px;
+	letter-spacing: -.5px;
+	color: #FFFFFF;
+}
+
+.post-home .title a {
+	color: #FFFFFF;
+	border: none;
+}
+
+
+.post-home .entry {
+	padding: 0px 0px 20px 0px;
+	padding-bottom: 20px;
+	text-align: justify;
+}
+
+.applications {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center
+}
+
+.applications td, .applications th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.applications tr:nth-child(even){background-color:rgb(0, 0, 0, 0.1);}
+
+
+
+.applications th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: rgb(0,0,0,0.4);
+    color: white;
+    text-align: center;
+}
+
+.project-brief-description{
+
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+
+
+

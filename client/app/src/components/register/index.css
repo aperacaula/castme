@@ -1,0 +1,62 @@
+
+
+.section-header{
+	text-align: right;
+}
+
+
+
+
+/* Content */
+
+.image-header{
+	padding-left: 1.5em;
+}
+
+.image-input{
+	width:80%;
+}
+
+.registration-register {
+	display: grid;
+    grid-template: 1fr/ 0.5fr 1fr;
+
+}
+
+.profile-pic{
+	max-width:150px;
+	max-height:150px;
+}
+
+
+.text_input-register{
+	margin-bottom: 2%;
+	width: 100%;
+}
+
+
+.horizontal-line {
+	margin-top: 2em;
+	margin-bottom: 2em;
+	border: 1px solid rgb(56, 4, 2);
+}
+
+span{
+	text-align: left;
+}
+
+#register-button{
+	margin-top: 5em;
+    margin-left: 15em;
+}
+
+
+
+
+
+
+
+
+
+
+
